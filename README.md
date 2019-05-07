@@ -1,7 +1,7 @@
 MicroPython-Examples
 ====================
 
-This repo features examples for MicroPython similar to Arduino.
+This repo features examples for MicroPython fro use with PyBoard v1.0.
 
 ### Troubleshooting
 
