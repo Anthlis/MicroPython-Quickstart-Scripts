@@ -112,6 +112,7 @@ Control cursor with the pyboard's accelerometer. The USR switch is used as the b
 
 
 Contributions include code from:
-[Anthony Lister](https://github.com/anthlis/MicroPython-Examples/)
+
+[Anthlis](https://github.com/anthlis/MicroPython-Examples/)
 [Mithru Vigneshwara](https://github.com/mithru/MicroPython-Examples/)  
 [Dave Hylands](https://github.com/dhylands/upy-examples/)
